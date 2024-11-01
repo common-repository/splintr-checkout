@@ -1,0 +1,17 @@
+/**
+ * admin.scss
+ * Splintr Admin styles.
+ */
+
+#splintr-custom-log {
+  width: 99%;
+  background-color: #eee;
+  color: #32373c;
+  overflow: auto;
+  padding: 2px 6px;
+  font-size: 12px;
+}
+
+#woocommerce_splint-payment-gateway_custom_log_message {
+  display: none;
+}

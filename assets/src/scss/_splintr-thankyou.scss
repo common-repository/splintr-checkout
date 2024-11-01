@@ -1,0 +1,26 @@
+.splintr-thankyou {
+  text-align: center;
+
+  p {
+    margin-bottom: 1.5em;
+  }
+
+  &__logo {
+    margin: 0 auto;
+    padding: 1em;
+    height: 5em;
+    width: 250px;
+    background-image: url('https://www.splintr.com/images/logo.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-color: #ff98af;
+    border-radius: 50px;
+  }
+
+  &__text {
+    font-size: 120%;
+    font-weight: bold;
+  }
+}
